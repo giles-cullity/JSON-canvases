@@ -1,0 +1,592 @@
+﻿{
+    "nodes":  [
+                  {
+                      "id":  "d13a5ed2b6a6a416",
+                      "type":  "text",
+                      "text":  "",
+                      "x":  2769,
+                      "y":  -2776,
+                      "width":  260,
+                      "height":  60
+                  },
+                  {
+                      "id":  "f2bd26d3d8d17c5d",
+                      "type":  "text",
+                      "x":  -480,
+                      "y":  -240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "template planning reasoning",
+                      "notePath":  "public/reasoning/high-level reasoning navigation/template planning reasoning.md"
+                  },
+                  {
+                      "id":  "ec22a363d3d6d145",
+                      "type":  "text",
+                      "x":  -1360,
+                      "y":  -640,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "planning reasoning",
+                      "notePath":  "public/high-level navigation/planning reasoning.md"
+                  },
+                  {
+                      "id":  "0ab58096a726d934",
+                      "type":  "text",
+                      "x":  -2160,
+                      "y":  -1040,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning",
+                      "notePath":  "public/high-level navigation/reasoning.md"
+                  },
+                  {
+                      "id":  "e896e064b6b905aa",
+                      "type":  "text",
+                      "x":  320,
+                      "y":  -640,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/mid-level reasoning navigation/constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "c761ad73cbc1295f",
+                      "type":  "text",
+                      "x":  1120,
+                      "y":  -2240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/mid-level reasoning navigation/low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "eb107153b4afc14c",
+                      "type":  "text",
+                      "x":  1920,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "martial arts low-level constraint stage template planning reasoning",
+                      "notePath":  "to-be-reorganized/2026-H2/martial arts low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "8ee62e0ce8730b89",
+                      "type":  "text",
+                      "x":  2320,
+                      "y":  -2240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "cardio etc low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/cardio etc low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "8fad9a83ef6d51da",
+                      "type":  "text",
+                      "x":  3520,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "weights program low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/weights program low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "65c9537c150e8393",
+                      "type":  "text",
+                      "x":  2720,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "running etc low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/running etc low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "fb20abadd638d35e",
+                      "type":  "text",
+                      "x":  4320,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "weight training equipment etc low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/weight training equipment etc low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "b02bda82ffa59b20",
+                      "type":  "text",
+                      "x":  3920,
+                      "y":  -2240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "weight training low-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/weight training low-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "fea85598877e801d",
+                      "type":  "text",
+                      "x":  3120,
+                      "y":  -1440,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "workout session constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/workout session constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "7cb2f227d7286df5",
+                      "type":  "text",
+                      "x":  1120,
+                      "y":  560,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "high-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/high-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "a2815bafb3bc0179",
+                      "type":  "text",
+                      "x":  1920,
+                      "y":  560,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "project set reasoning",
+                      "notePath":  "to-be-reorganized/small vault/project set reasoning.md"
+                  },
+                  {
+                      "id":  "a3d1524caeb1cd9d",
+                      "type":  "text",
+                      "x":  2720,
+                      "y":  560,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "high-level routine constraint stage reasoning",
+                      "notePath":  "unpublished/reasoning/low-level reasoning navigation/high-level routine constraint stage reasoning.md"
+                  },
+                  {
+                      "id":  "065e7f18b3335aad",
+                      "type":  "text",
+                      "x":  1120,
+                      "y":  -240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "mid-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/mid-level reasoning navigation/mid-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "8794cdd3df0c9989",
+                      "type":  "text",
+                      "x":  1920,
+                      "y":  -240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "lifting etc mid-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/mid-level reasoning navigation/lifting etc mid-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "7b5fc2d246f06f36",
+                      "type":  "text",
+                      "x":  2720,
+                      "y":  -240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "website etc mid-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/website etc mid-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "a8f90adc33d17836",
+                      "type":  "text",
+                      "x":  3520,
+                      "y":  -240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "artistic projects \u0026 relationships mid-level constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/artistic projects \u0026 relationships mid-level constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "43de85b73cd02728",
+                      "type":  "text",
+                      "x":  5120,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "food constraint stage template planning reasoning",
+                      "notePath":  "to-be-reorganized/2026-H2/food constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "101dad4c51508d4d",
+                      "type":  "text",
+                      "x":  5920,
+                      "y":  -3000,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "eating style constraint stage template planning reasoning",
+                      "notePath":  "to-be-reorganized/small vault/eating style constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "eabcc59de979efa5",
+                      "type":  "text",
+                      "x":  5520,
+                      "y":  -2240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "eating etc constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/eating etc constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "fb1512ec6111444e",
+                      "type":  "text",
+                      "x":  5920,
+                      "y":  -1440,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "meal session constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/meal session constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "47f7f3e204b2f13c",
+                      "type":  "text",
+                      "x":  7120,
+                      "y":  -2240,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "writing etc constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/writing etc constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "b6b71623ebd0bc39",
+                      "type":  "text",
+                      "x":  7520,
+                      "y":  -1440,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "walk etc sessions constraint stage template planning reasoning",
+                      "notePath":  "public/reasoning/low-level reasoning navigation/walk etc sessions constraint stage template planning reasoning.md"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "28e9c5fa68e9e780",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "e896e064b6b905aa",
+                      "fromSide":  "left",
+                      "toNode":  "f2bd26d3d8d17c5d",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "5febf6b08c8cc94c",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "065e7f18b3335aad",
+                      "fromSide":  "left",
+                      "toNode":  "e896e064b6b905aa",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "88f0b23d477b6f44",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "7cb2f227d7286df5",
+                      "fromSide":  "left",
+                      "toNode":  "e896e064b6b905aa",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "eb56202049fb3d4c",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c761ad73cbc1295f",
+                      "fromSide":  "left",
+                      "toNode":  "e896e064b6b905aa",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "6ff2935b4f2586e6",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f2bd26d3d8d17c5d",
+                      "fromSide":  "left",
+                      "toNode":  "ec22a363d3d6d145",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "1ba1da5a007efd16",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "ec22a363d3d6d145",
+                      "fromSide":  "left",
+                      "toNode":  "0ab58096a726d934",
+                      "toSide":  "right",
+                      "color":  "#7f5fff"
+                  },
+                  {
+                      "id":  "01f4dc9a81391568",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "fea85598877e801d",
+                      "fromSide":  "bottom",
+                      "toNode":  "c761ad73cbc1295f",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "60f9752881aaf7ab",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "fb1512ec6111444e",
+                      "fromSide":  "bottom",
+                      "toNode":  "c761ad73cbc1295f",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "0556cc53010b9134",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "b6b71623ebd0bc39",
+                      "fromSide":  "bottom",
+                      "toNode":  "c761ad73cbc1295f",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "b712f5c4ebca8fb2",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "8794cdd3df0c9989",
+                      "fromSide":  "bottom",
+                      "toNode":  "065e7f18b3335aad",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "56df1dc91210cef0",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "7b5fc2d246f06f36",
+                      "fromSide":  "bottom",
+                      "toNode":  "065e7f18b3335aad",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "3f7a88951e27b91d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "a8f90adc33d17836",
+                      "fromSide":  "bottom",
+                      "toNode":  "065e7f18b3335aad",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "2932f70f6f9fcb52",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "a2815bafb3bc0179",
+                      "fromSide":  "bottom",
+                      "toNode":  "7cb2f227d7286df5",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "93789d7727f19aa3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "a3d1524caeb1cd9d",
+                      "fromSide":  "bottom",
+                      "toNode":  "7cb2f227d7286df5",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "85f5986134b4e742",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "8ee62e0ce8730b89",
+                      "fromSide":  "bottom",
+                      "toNode":  "fea85598877e801d",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "d5143d28f4d4230b",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "b02bda82ffa59b20",
+                      "fromSide":  "bottom",
+                      "toNode":  "fea85598877e801d",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "53066c4fccaa5e0f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "eabcc59de979efa5",
+                      "fromSide":  "bottom",
+                      "toNode":  "fb1512ec6111444e",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "52f0a494004b1a62",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "47f7f3e204b2f13c",
+                      "fromSide":  "bottom",
+                      "toNode":  "fb1512ec6111444e",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "7383216f11d63a8d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "8fad9a83ef6d51da",
+                      "fromSide":  "bottom",
+                      "toNode":  "b02bda82ffa59b20",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "066e82381c7254c6",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "eb107153b4afc14c",
+                      "fromSide":  "bottom",
+                      "toNode":  "8ee62e0ce8730b89",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "13634555f67f295e",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "65c9537c150e8393",
+                      "fromSide":  "bottom",
+                      "toNode":  "8ee62e0ce8730b89",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "8452c97c699e671d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "fb20abadd638d35e",
+                      "fromSide":  "bottom",
+                      "toNode":  "b02bda82ffa59b20",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "0264db123acb6325",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "ec22a363d3d6d145",
+                      "fromSide":  "left",
+                      "toNode":  "0ab58096a726d934",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "bc9742ea99a8cc55",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "43de85b73cd02728",
+                      "fromSide":  "bottom",
+                      "toNode":  "eabcc59de979efa5",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "0d7c3a9062590840",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "101dad4c51508d4d",
+                      "fromSide":  "bottom",
+                      "toNode":  "eabcc59de979efa5",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  }
+              ],
+    "metadata":  {
+                     "version":  "1.0-1.0",
+                     "frontmatter":  {
+
+                                     }
+                 }
+}
