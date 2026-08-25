@@ -31,12 +31,18 @@ const root = document.getElementById("app");
 root.innerHTML = `<div style="color:white;padding:1rem;">main.js loaded</div>`;
 
 try {
-  const response = await fetch("/constraint-template-reasoning.json");
-  if (!response.ok) {
-    throw new Error(`Failed to fetch constraint-template-reasoning.json.json: ${response.status} ${response.statusText}`);
+  const params = new URLSearchParams(window.location.search);
+  const canvasName = params.get("canvas") || "constraint-template-reasoning";
+
+  const resp = await fetch(`/canvases/${canvasName}.json`);
+
+  if (!resp.ok) {
+    throw new Error(
+      `Failed to fetch ${canvasName}.json: ${resp.status} ${resp.statusText}`
+    );
   }
 
-  const canvasData = await response.json();
+  const canvasData = await resp.json();
   console.log("canvasData:", canvasData);
   console.log("nodes:", canvasData.nodes?.length, "edges:", canvasData.edges?.length);
 

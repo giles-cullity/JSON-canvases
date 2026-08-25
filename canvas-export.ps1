@@ -1,5 +1,5 @@
-$inputFile = "constraint stage template planning reasoning navigation graph (under construction).canvas"
-$outputFile = "constraint-template-reasoning.json"
+$inputFile = "life periods navigation graph (under construction).canvas"
+$outputFile = "life-periods.json"
 
 $colorMap = @{
     "1" = "#ff3f2f"
