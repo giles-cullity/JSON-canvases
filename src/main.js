@@ -48,12 +48,10 @@ try {
 
   root.innerHTML = `<div style="color:white;padding:1rem;">JSON loaded. Initializing viewer...</div>`;
 
-const viewer = new JSONCanvasViewer(
-  root,
-  ['minimap', 'mistouchPrevention'],
-  ['proControlSchema']
-);
-viewer.loadCanvas(canvasData);
+new JSONCanvasViewer({
+  container: root,
+  canvas: canvasData,
+});
 
 requestAnimationFrame(() => {
   applyOverlayTheme();
