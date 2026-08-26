@@ -337,6 +337,12 @@ html, body, #app {
 }
 
 .JCV-content.JCV-markdown-content,
+.JCV-parsed-content-wrapper {
+  font-family: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif !important;
+  font-weight: 500 !important;
+}
+
+.JCV-content.JCV-markdown-content,
 .JCV-content.JCV-markdown-content p,
 .JCV-content.JCV-markdown-content span,
 .JCV-content.JCV-markdown-content div,
