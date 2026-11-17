@@ -1,0 +1,2276 @@
+﻿{
+    "nodes":  [
+                  {
+                      "id":  "374e0a5d8a56a362",
+                      "type":  "text",
+                      "x":  -3004,
+                      "y":  -3853,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning",
+                      "notePath":  "public/notes/high-level navigation notes/set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "577011a37b238e9e",
+                      "type":  "text",
+                      "x":  -1404,
+                      "y":  -4336,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "main reasoning",
+                      "notePath":  "public/notes/high-level navigation notes/main reasoning.md"
+                  },
+                  {
+                      "id":  "d45f09988d46bccc",
+                      "type":  "text",
+                      "x":  -604,
+                      "y":  -5053,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "planning reasoning",
+                      "notePath":  "public/notes/high-level navigation notes/planning reasoning.md"
+                  },
+                  {
+                      "id":  "ab239b5113ebc4b0",
+                      "type":  "text",
+                      "x":  -604,
+                      "y":  -2784,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "modelling reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/modelling reasoning.md"
+                  },
+                  {
+                      "id":  "877fc89089135772",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -5033,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage template planning reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/constraint stage template planning reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "90cf84f9a80fddc9",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -5033,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage template planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/constraint stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "48786de1a6291435",
+                      "type":  "text",
+                      "x":  196,
+                      "y":  -4633,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "template planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/template planning reasoning.md"
+                  },
+                  {
+                      "id":  "77c0ceee6f09e952",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -4245,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "consideration stage template planning reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/consideration stage template planning reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "6934c403b845a03f",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -4245,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "consideration stage template planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/consideration stage template planning reasoning.md"
+                  },
+                  {
+                      "id":  "c49f5f63447a837c",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -3493,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "model stage reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/model stage reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "9d6a29e10b5e9ad9",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -3493,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "model stage reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/model stage reasoning.md"
+                  },
+                  {
+                      "id":  "af673095889026d7",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -2693,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "correlation stage reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/correlation stage reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "176de779624dfaa9",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -1952,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "data stage reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/data stage reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "5b4a45f02e6ebd11",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -2693,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "correlation stage reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/correlation stage reasoning.md"
+                  },
+                  {
+                      "id":  "f8a8ce0809b07b8b",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -1952,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "data stage reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/data stage reasoning.md"
+                  },
+                  {
+                      "id":  "31423ce3179b6611",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -1184,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "main reasoning by argument-stage facet",
+                      "notePath":  "unpublished/reasoning/high-level reasoning navigation/main reasoning by argument-stage facet.md"
+                  },
+                  {
+                      "id":  "1f126dd4927f1c42",
+                      "type":  "text",
+                      "x":  1505,
+                      "y":  -5821,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "timespan planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/timespan planning reasoning.md"
+                  },
+                  {
+                      "id":  "2e901c6044190777",
+                      "type":  "text",
+                      "x":  1105,
+                      "y":  -5821,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "timespan planning reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/timespan planning reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "788ba921c2bbd9b9",
+                      "type":  "text",
+                      "x":  2356,
+                      "y":  -5033,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage template planning opinions",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/constraint stage template planning opinions.md"
+                  },
+                  {
+                      "id":  "1451413486e66110",
+                      "type":  "text",
+                      "x":  2436,
+                      "y":  -5821,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage timespan planning opinions",
+                      "notePath":  "to-be-reorganized/2026-H2/constraint stage timespan planning opinions.md"
+                  },
+                  {
+                      "id":  "53dcb2bb28ee40d0",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -4220,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current almost-certainly set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current almost-certainly set 1 opinions.md"
+                  },
+                  {
+                      "id":  "5d4871b2b677ba45",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  -4220,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2017-2020 set 1 reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/realized 2017-2020 set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "acc2ab93f1d3f98d",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -3480,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current probably set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current probably set 1 opinions.md"
+                  },
+                  {
+                      "id":  "66c9246b833e3e1b",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  -3480,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2014-2016 set 1 reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/realized 2014-2016 set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "f89f08da159365a6",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -2680,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current maybe set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current maybe set 1 opinions.md"
+                  },
+                  {
+                      "id":  "d005cc8a1c663746",
+                      "type":  "text",
+                      "x":  8196,
+                      "y":  -4633,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "merged action space timespan planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/merged action space timespan planning reasoning.md"
+                  },
+                  {
+                      "id":  "e225569eb50addad",
+                      "type":  "text",
+                      "x":  9236,
+                      "y":  -4633,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 opinions.md"
+                  },
+                  {
+                      "id":  "f5800f60411316c4",
+                      "type":  "text",
+                      "x":  3956,
+                      "y":  -4221,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning PKM reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/reasoning PKM reasoning.md"
+                  },
+                  {
+                      "id":  "0229f0b9ebc252c2",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  -5020,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2021-2022 set 1 reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/realized 2021-2022 set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "ea226f6e3293e600",
+                      "type":  "text",
+                      "x":  4756,
+                      "y":  -2681,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "main reasoning meta reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/main reasoning meta reasoning.md"
+                  },
+                  {
+                      "id":  "1a65dbc0de1b4ea2",
+                      "type":  "text",
+                      "x":  6116,
+                      "y":  -5809,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage timespan opinions execution reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/constraint stage timespan opinions execution reasoning.md"
+                  },
+                  {
+                      "id":  "9020790c3f817323",
+                      "type":  "text",
+                      "x":  6116,
+                      "y":  -5021,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "constraint stage template opinions execution reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/constraint stage template opinions execution reasoning.md"
+                  },
+                  {
+                      "id":  "f8c9ed48ef6c5d3a",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -1939,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current probably-not set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current probably-not set 1 opinions.md"
+                  },
+                  {
+                      "id":  "e6c2589dc9a8f994",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  -1939,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2001-2010 set 1 reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/realized 2001-2010 set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "628c35d40385227b",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -1171,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current almost-certainly-not set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current almost-certainly-not set 1 opinions.md"
+                  },
+                  {
+                      "id":  "98c7e2d13dcf6ebe",
+                      "type":  "text",
+                      "x":  8196,
+                      "y":  -3820,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "merged action space template planning reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/merged action space template planning reasoning.md"
+                  },
+                  {
+                      "id":  "4a2864be2ea11cc1",
+                      "type":  "text",
+                      "x":  4356,
+                      "y":  -3481,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning improvement reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/reasoning improvement reasoning.md"
+                  },
+                  {
+                      "id":  "a7ddd26ef2e99f33",
+                      "type":  "text",
+                      "x":  5156,
+                      "y":  -3481,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning-task sequence reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/reasoning-task sequence reasoning.md"
+                  },
+                  {
+                      "id":  "1258ad692ba4af92",
+                      "type":  "text",
+                      "x":  3556,
+                      "y":  -3493,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "PKM reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/PKM reasoning.md"
+                  },
+                  {
+                      "id":  "45cc5ea38444e757",
+                      "type":  "text",
+                      "x":  3156,
+                      "y":  -4221,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "decorative PKM reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/decorative PKM reasoning.md"
+                  },
+                  {
+                      "id":  "5e7c1a0d4f70c8b5",
+                      "type":  "text",
+                      "x":  3156,
+                      "y":  -2693,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "Intermap reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/Intermap reasoning.md"
+                  },
+                  {
+                      "id":  "f04ee28a3f808152",
+                      "type":  "text",
+                      "x":  2756,
+                      "y":  -3481,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "Intermap additions reasoning",
+                      "notePath":  "to-be-reorganized/2026-H2/Intermap additions reasoning.md"
+                  },
+                  {
+                      "id":  "1b754ee1209b0391",
+                      "type":  "text",
+                      "x":  -1804,
+                      "y":  -381,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "intrinsic reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/intrinsic reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "35ddcdb94e338e4c",
+                      "type":  "text",
+                      "x":  -1404,
+                      "y":  -381,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "intrinsic value reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/intrinsic value reasoning.md"
+                  },
+                  {
+                      "id":  "f3396715ceff9262",
+                      "type":  "text",
+                      "x":  9916,
+                      "y":  -2680,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/non-current set 1 opinions.md"
+                  },
+                  {
+                      "id":  "340446006f03d72c",
+                      "type":  "text",
+                      "x":  9916,
+                      "y":  -1171,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 opinions by currency facet",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 opinions by currency facet.md"
+                  },
+                  {
+                      "id":  "c751b3941be24697",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -6597,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current probably-not set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current probably-not set 1 opinions.md"
+                  },
+                  {
+                      "id":  "b8b0819ce4d2e5dd",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -5809,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current almost-certainly-not set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current almost-certainly-not set 1 opinions.md"
+                  },
+                  {
+                      "id":  "f8140f82266c56a7",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -8853,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current almost-certainly set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current almost-certainly set 1 opinions.md"
+                  },
+                  {
+                      "id":  "406e3ba0656d2421",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -8133,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current probably set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current probably set 1 opinions.md"
+                  },
+                  {
+                      "id":  "0d772d2944c5ef81",
+                      "type":  "text",
+                      "x":  9916,
+                      "y":  -7381,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current set 1 opinions.md"
+                  },
+                  {
+                      "id":  "cfc4ddd43812dd48",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -7381,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current maybe set 1 opinions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current maybe set 1 opinions.md"
+                  },
+                  {
+                      "id":  "e6b8a582551fb0b6",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -5020,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current set 1 opinions by probability facet",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/current set 1 opinions by probability facet.md"
+                  },
+                  {
+                      "id":  "11a849af02924b58",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  -464,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "non-current set 1 opinions by probability facet",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/non-current set 1 opinions by probability facet.md"
+                  },
+                  {
+                      "id":  "06985a5a0e951e33",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  1819,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "abandoned set 1 questions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/abandoned set 1 questions.md"
+                  },
+                  {
+                      "id":  "96c0982a71635773",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  1096,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "answered set 1 questions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/answered set 1 questions.md"
+                  },
+                  {
+                      "id":  "61c7d06f8da9c5ec",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  336,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "current set 1 questions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/current set 1 questions.md"
+                  },
+                  {
+                      "id":  "8080717adc6bf13c",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  2576,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 questions by currency facet",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 questions by currency facet.md"
+                  },
+                  {
+                      "id":  "45f4754f422d513a",
+                      "type":  "text",
+                      "x":  10756,
+                      "y":  3296,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning by thought-type etc facets",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 reasoning by thought-type etc facets.md"
+                  },
+                  {
+                      "id":  "6cd6c4e72e781a66",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  3296,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning by period-realized facet",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 reasoning by period-realized facet.md"
+                  },
+                  {
+                      "id":  "c30138a4782ac85a",
+                      "type":  "text",
+                      "x":  11156,
+                      "y":  4125,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning by other facets",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 reasoning by other facets.md"
+                  },
+                  {
+                      "id":  "4c5ba62a96024e97",
+                      "type":  "text",
+                      "x":  5584,
+                      "y":  4125,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "2nd-order reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/2nd-order reasoning.md"
+                  },
+                  {
+                      "id":  "3a5970e646e273e1",
+                      "type":  "text",
+                      "x":  -1976,
+                      "y":  4125,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning by meta-order facet",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 reasoning by meta-order facet.md"
+                  },
+                  {
+                      "id":  "a989141301fc4d89",
+                      "type":  "text",
+                      "x":  -1176,
+                      "y":  4125,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "1st-order reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/1st-order reasoning.md"
+                  },
+                  {
+                      "id":  "db49ad76793dac89",
+                      "type":  "text",
+                      "x":  9436,
+                      "y":  1096,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 questions",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 questions.md"
+                  },
+                  {
+                      "id":  "57cc34d18d01c061",
+                      "type":  "text",
+                      "x":  9436,
+                      "y":  3296,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "set 1 reasoning by thought-type facet",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/set 1 reasoning by thought-type facet.md"
+                  },
+                  {
+                      "id":  "6c085e0089d329b2",
+                      "type":  "text",
+                      "x":  8396,
+                      "y":  4125,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "3rd-order reasoning",
+                      "notePath":  "public/notes/reasoning notes/high-level reasoning navigation notes/3rd-order reasoning.md"
+                  },
+                  {
+                      "id":  "4514be6c8c2235b8",
+                      "type":  "text",
+                      "x":  -3840,
+                      "y":  -4253,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "declarative content",
+                      "notePath":  "public/notes/high-level navigation notes/declarative content.md"
+                  },
+                  {
+                      "id":  "b1b89f81fbd30497",
+                      "type":  "text",
+                      "x":  -4697,
+                      "y":  -3845,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "personal home",
+                      "notePath":  "public/notes/high-level navigation notes/personal home.md"
+                  },
+                  {
+                      "id":  "bbddd1cf201c3266",
+                      "type":  "text",
+                      "x":  -5097,
+                      "y":  -3845,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "high-level navigation graph",
+                      "notePath":  "public/navigation maps/high-level navigation graphs/high-level navigation graph.canvas"
+                  },
+                  {
+                      "id":  "990ff4e46aa03368",
+                      "type":  "text",
+                      "x":  -5097,
+                      "y":  -7051,
+                      "width":  2507,
+                      "height":  1242,
+                      "text":  "link color key 2026-08-14",
+                      "notePath":  "public/navigation maps/link color key 2026-08-14.png"
+                  },
+                  {
+                      "id":  "e320d53138c00b0a",
+                      "type":  "text",
+                      "x":  11917,
+                      "y":  -2680,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2011-2013 set 1 reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/realized 2011-2013 set 1 reasoning.md"
+                  },
+                  {
+                      "id":  "01fbf11683cde650",
+                      "type":  "text",
+                      "x":  11517,
+                      "y":  -2680,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "realized 2011-2013 set 1 reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/mid-level navigation graphs/realized 2011-2013 set 1 reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "0c86d51cbc7f4371",
+                      "type":  "text",
+                      "x":  2756,
+                      "y":  -2693,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "Intermap reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/mid-level navigation graphs/Intermap reasoning navigation graph (under construction).canvas"
+                  },
+                  {
+                      "id":  "35841693d176fa1e",
+                      "type":  "text",
+                      "x":  5156,
+                      "y":  -4245,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning language reasoning",
+                      "notePath":  "public/notes/reasoning notes/mid-level reasoning navigation notes/reasoning language reasoning.md"
+                  },
+                  {
+                      "id":  "51c9dd33ccb9aa27",
+                      "type":  "text",
+                      "x":  4756,
+                      "y":  -4245,
+                      "width":  400,
+                      "height":  400,
+                      "text":  "reasoning language reasoning navigation graph (under construction)",
+                      "notePath":  "public/navigation maps/mid-level navigation graphs/reasoning language reasoning navigation graph (under construction).canvas"
+                  }
+              ],
+    "edges":  [
+                  {
+                      "id":  "7f8fce3f8fbf899e",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "374e0a5d8a56a362",
+                      "fromSide":  "right",
+                      "toNode":  "c30138a4782ac85a",
+                      "toSide":  "bottom",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "d54ded54ae8d527b",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "a989141301fc4d89",
+                      "fromSide":  "bottom",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "e9360d7dabce2f74",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "4c5ba62a96024e97",
+                      "fromSide":  "bottom",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "6b2b951ccd5bbf39",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "e6c2589dc9a8f994",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "372cb1f9c2e75d99",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "6cd6c4e72e781a66",
+                      "fromSide":  "bottom",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "4fb2b31f20e73c50",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "e320d53138c00b0a",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "720ce44e15ea5bde",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "66c9246b833e3e1b",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "38c881b116088e17",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "5d4871b2b677ba45",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "016c7dc3ab18b688",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "0229f0b9ebc252c2",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "638de071747e0b78",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "db49ad76793dac89",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "b36d6daaebff028f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "e225569eb50addad",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "8e3c3a9dc85711a6",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "6c085e0089d329b2",
+                      "fromSide":  "bottom",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "768b0f271c13742f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "3a5970e646e273e1",
+                      "fromSide":  "left",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "9cb108b612bb9ef9",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "57cc34d18d01c061",
+                      "fromSide":  "bottom",
+                      "toNode":  "374e0a5d8a56a362",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "8b6790bf63a98968",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "577011a37b238e9e",
+                      "fromSide":  "left",
+                      "toNode":  "a989141301fc4d89",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "e2b42c50fe93502f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "31423ce3179b6611",
+                      "fromSide":  "bottom",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "e475d5a4c7c868b8",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "d45f09988d46bccc",
+                      "fromSide":  "left",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "660a0ef4957f27e7",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "ab239b5113ebc4b0",
+                      "fromSide":  "left",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "213c07109057da7b",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "35841693d176fa1e",
+                      "fromSide":  "bottom",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "37a0cc4fafeae2f8",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "a7ddd26ef2e99f33",
+                      "fromSide":  "bottom",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "24ff318263870023",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "48786de1a6291435",
+                      "fromSide":  "left",
+                      "toNode":  "d45f09988d46bccc",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "6c32a44a4258707b",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "2e901c6044190777",
+                      "fromSide":  "left",
+                      "toNode":  "d45f09988d46bccc",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "74120189a8f88d62",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "176de779624dfaa9",
+                      "fromSide":  "left",
+                      "toNode":  "ab239b5113ebc4b0",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "3af614c411d9dcd3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "af673095889026d7",
+                      "fromSide":  "left",
+                      "toNode":  "ab239b5113ebc4b0",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "5e9511d96a219c0d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c49f5f63447a837c",
+                      "fromSide":  "left",
+                      "toNode":  "ab239b5113ebc4b0",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "17c1e85939025e0e",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "877fc89089135772",
+                      "fromSide":  "left",
+                      "toNode":  "48786de1a6291435",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "330b97a88681f311",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "877fc89089135772",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "e784fe283cbdf5e0",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "788ba921c2bbd9b9",
+                      "fromSide":  "left",
+                      "toNode":  "90cf84f9a80fddc9",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "3e2a117633a3999d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "77c0ceee6f09e952",
+                      "fromSide":  "left",
+                      "toNode":  "48786de1a6291435",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "5f6e1a189f198ebc",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "77c0ceee6f09e952",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "a89fd87c5abbb5e4",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c49f5f63447a837c",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "519334709c2ab563",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "af673095889026d7",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "98cac0524a1df580",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "176de779624dfaa9",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "701b74e98d58c540",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "2e901c6044190777",
+                      "fromSide":  "left",
+                      "toNode":  "31423ce3179b6611",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "4394ae23c94608c5",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "1451413486e66110",
+                      "fromSide":  "left",
+                      "toNode":  "1f126dd4927f1c42",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "2d5ae32dd9217969",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "9020790c3f817323",
+                      "fromSide":  "left",
+                      "toNode":  "788ba921c2bbd9b9",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "e9ada494e0b267fd",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "98c7e2d13dcf6ebe",
+                      "fromSide":  "left",
+                      "toNode":  "788ba921c2bbd9b9",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "b13207dbac941c12",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "1a65dbc0de1b4ea2",
+                      "fromSide":  "left",
+                      "toNode":  "1451413486e66110",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "95b481cc6cf40426",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "d005cc8a1c663746",
+                      "fromSide":  "left",
+                      "toNode":  "1451413486e66110",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "303d5cb998f0f1db",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "53dcb2bb28ee40d0",
+                      "fromSide":  "left",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "cb79254c1a595744",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "53dcb2bb28ee40d0",
+                      "fromSide":  "left",
+                      "toNode":  "11a849af02924b58",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "38fddd1a7e75570d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "06985a5a0e951e33",
+                      "fromSide":  "bottom",
+                      "toNode":  "53dcb2bb28ee40d0",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "559924c46c86d289",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "5d4871b2b677ba45",
+                      "fromSide":  "left",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "3da609a50a3b5cc3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "acc2ab93f1d3f98d",
+                      "fromSide":  "left",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "7c0e022a2500e2fb",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "acc2ab93f1d3f98d",
+                      "fromSide":  "left",
+                      "toNode":  "11a849af02924b58",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "d2e5c6af0b13b548",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "acc2ab93f1d3f98d",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "136a45612852c6a1",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "66c9246b833e3e1b",
+                      "fromSide":  "left",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "f4d20423dbf066a5",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f89f08da159365a6",
+                      "fromSide":  "left",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "bea2b1fe96cb13df",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f89f08da159365a6",
+                      "fromSide":  "left",
+                      "toNode":  "11a849af02924b58",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "064a0c7a86962f75",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "f89f08da159365a6",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "d304020d6b684aa1",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "e320d53138c00b0a",
+                      "fromSide":  "left",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "94d143c4fbc0a35e",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "d005cc8a1c663746",
+                      "fromSide":  "bottom",
+                      "toNode":  "6c085e0089d329b2",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "83d985d07e158761",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "d005cc8a1c663746",
+                      "fromSide":  "left",
+                      "toNode":  "1a65dbc0de1b4ea2",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "4f04f7f259f67110",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "e225569eb50addad",
+                      "fromSide":  "left",
+                      "toNode":  "57cc34d18d01c061",
+                      "toSide":  "bottom",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "c005d863ae247047",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "0d772d2944c5ef81",
+                      "fromSide":  "left",
+                      "toNode":  "e225569eb50addad",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "9fbe467220a94245",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "f3396715ceff9262",
+                      "fromSide":  "left",
+                      "toNode":  "e225569eb50addad",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "c851e071031135dc",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "340446006f03d72c",
+                      "fromSide":  "bottom",
+                      "toNode":  "e225569eb50addad",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "4bb6da4e0da2a6a8",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f5800f60411316c4",
+                      "fromSide":  "bottom",
+                      "toNode":  "4a2864be2ea11cc1",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "2a53c25ff5ba6be0",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "f5800f60411316c4",
+                      "fromSide":  "bottom",
+                      "toNode":  "1258ad692ba4af92",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "84b5eba5eb6cdea3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "35841693d176fa1e",
+                      "fromSide":  "bottom",
+                      "toNode":  "4a2864be2ea11cc1",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "26330bf83bf03b80",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "0229f0b9ebc252c2",
+                      "fromSide":  "left",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "67d9ebbdf2cfc1e7",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "ea226f6e3293e600",
+                      "fromSide":  "bottom",
+                      "toNode":  "4c5ba62a96024e97",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "66e12080a0a58e05",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "4a2864be2ea11cc1",
+                      "fromSide":  "bottom",
+                      "toNode":  "ea226f6e3293e600",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "0ead54a442499c58",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "a7ddd26ef2e99f33",
+                      "fromSide":  "bottom",
+                      "toNode":  "ea226f6e3293e600",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "c8a19db04e33a2e7",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "1a65dbc0de1b4ea2",
+                      "fromSide":  "bottom",
+                      "toNode":  "4c5ba62a96024e97",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "45da93ccdb5f8da7",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "9020790c3f817323",
+                      "fromSide":  "bottom",
+                      "toNode":  "4c5ba62a96024e97",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "626e65bf7e2aeae1",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "98c7e2d13dcf6ebe",
+                      "fromSide":  "left",
+                      "toNode":  "9020790c3f817323",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  },
+                  {
+                      "id":  "079f4d315c3d949d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f8c9ed48ef6c5d3a",
+                      "fromSide":  "left",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "313a5415b8ec6cc4",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f8c9ed48ef6c5d3a",
+                      "fromSide":  "left",
+                      "toNode":  "11a849af02924b58",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "b8ac85e9fef26798",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "f8c9ed48ef6c5d3a",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "e748021025be967d",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "e6c2589dc9a8f994",
+                      "fromSide":  "left",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "ce141473f2d4c7fe",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "628c35d40385227b",
+                      "fromSide":  "left",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "0f4271e7c90ed1bb",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "628c35d40385227b",
+                      "fromSide":  "left",
+                      "toNode":  "11a849af02924b58",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "60805c9108c15251",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "628c35d40385227b",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "ce628a911eb04098",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "98c7e2d13dcf6ebe",
+                      "fromSide":  "bottom",
+                      "toNode":  "6c085e0089d329b2",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "a34da67130625619",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "1258ad692ba4af92",
+                      "fromSide":  "bottom",
+                      "toNode":  "5e7c1a0d4f70c8b5",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "b1ca7daabdf7699c",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "45cc5ea38444e757",
+                      "fromSide":  "bottom",
+                      "toNode":  "1258ad692ba4af92",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "3fb80f8bc4d4bc09",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f04ee28a3f808152",
+                      "fromSide":  "bottom",
+                      "toNode":  "5e7c1a0d4f70c8b5",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "e8c5f8f1fdddea89",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "1b754ee1209b0391",
+                      "fromSide":  "left",
+                      "toNode":  "a989141301fc4d89",
+                      "toSide":  "top",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "2c2e1d1403631871",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f3396715ceff9262",
+                      "fromSide":  "left",
+                      "toNode":  "340446006f03d72c",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "dbabc485b4344c17",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "11a849af02924b58",
+                      "fromSide":  "bottom",
+                      "toNode":  "f3396715ceff9262",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "bc7d4c06fbe6ff58",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "0d772d2944c5ef81",
+                      "fromSide":  "left",
+                      "toNode":  "340446006f03d72c",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "57074187be030855",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c751b3941be24697",
+                      "fromSide":  "left",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "093c0a1483b78a33",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c751b3941be24697",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "b93952b3d7b32e11",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c751b3941be24697",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "6d3a0100a1dd2981",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "c751b3941be24697",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "98bd3c43f8a904f5",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "b8b0819ce4d2e5dd",
+                      "fromSide":  "left",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "1abd787c05cab7d5",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "b8b0819ce4d2e5dd",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "571d51600c670e89",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "b8b0819ce4d2e5dd",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "469d43b836c59fdd",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f8140f82266c56a7",
+                      "fromSide":  "left",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "436d3630e8921e71",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f8140f82266c56a7",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "da36c7a1cd8f5f64",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "f8140f82266c56a7",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "fb13c9b830107ac6",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "406e3ba0656d2421",
+                      "fromSide":  "left",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "3b0b4ef40210ffcb",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "406e3ba0656d2421",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "fd3a25d5d5f87126",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "406e3ba0656d2421",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "d78aa57d77d08ab6",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "cfc4ddd43812dd48",
+                      "fromSide":  "left",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "37688da4e89c6e2f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "e6b8a582551fb0b6",
+                      "fromSide":  "bottom",
+                      "toNode":  "0d772d2944c5ef81",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "35da566dc95bfacc",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "cfc4ddd43812dd48",
+                      "fromSide":  "left",
+                      "toNode":  "e6b8a582551fb0b6",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "e87f0802669f8d0f",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "cfc4ddd43812dd48",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "759612b24187b479",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "06985a5a0e951e33",
+                      "fromSide":  "left",
+                      "toNode":  "db49ad76793dac89",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "eedf698b3018e539",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "06985a5a0e951e33",
+                      "fromSide":  "left",
+                      "toNode":  "8080717adc6bf13c",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "4cedc4116a74c82a",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "06985a5a0e951e33",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "d3ba2a0539260ad0",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "96c0982a71635773",
+                      "fromSide":  "left",
+                      "toNode":  "db49ad76793dac89",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "29ac02755239ab8c",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "96c0982a71635773",
+                      "fromSide":  "left",
+                      "toNode":  "8080717adc6bf13c",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "b60b789870f07628",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "96c0982a71635773",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "ce2c34da3a989391",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "61c7d06f8da9c5ec",
+                      "fromSide":  "left",
+                      "toNode":  "db49ad76793dac89",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "376f2274321405d8",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "61c7d06f8da9c5ec",
+                      "fromSide":  "left",
+                      "toNode":  "8080717adc6bf13c",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "a65db9df7d9955a2",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "45f4754f422d513a",
+                      "fromSide":  "top",
+                      "toNode":  "61c7d06f8da9c5ec",
+                      "toSide":  "left",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "12927d5bace424fe",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "8080717adc6bf13c",
+                      "fromSide":  "bottom",
+                      "toNode":  "db49ad76793dac89",
+                      "toSide":  "right",
+                      "color":  "#5fffff"
+                  },
+                  {
+                      "id":  "56c8e6e4b1dc8aa1",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c30138a4782ac85a",
+                      "fromSide":  "top",
+                      "toNode":  "45f4754f422d513a",
+                      "toSide":  "bottom",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "070c112cd33ac69a",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "c30138a4782ac85a",
+                      "fromSide":  "top",
+                      "toNode":  "6cd6c4e72e781a66",
+                      "toSide":  "bottom",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "7cfb17aca411b122",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "4c5ba62a96024e97",
+                      "fromSide":  "bottom",
+                      "toNode":  "3a5970e646e273e1",
+                      "toSide":  "right",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "058df0e24c0e7dc3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "a989141301fc4d89",
+                      "fromSide":  "bottom",
+                      "toNode":  "3a5970e646e273e1",
+                      "toSide":  "right",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "0bbfdb2f9a6cc7b3",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "6c085e0089d329b2",
+                      "fromSide":  "bottom",
+                      "toNode":  "3a5970e646e273e1",
+                      "toSide":  "right",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "c78e79215a5b5c13",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "db49ad76793dac89",
+                      "fromSide":  "left",
+                      "toNode":  "57cc34d18d01c061",
+                      "toSide":  "top",
+                      "color":  "#1fff7f"
+                  },
+                  {
+                      "id":  "1aa8c12467e7bb9a",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "374e0a5d8a56a362",
+                      "fromSide":  "left",
+                      "toNode":  "b1b89f81fbd30497",
+                      "toSide":  "right",
+                      "color":  "#1f5fff"
+                  },
+                  {
+                      "id":  "83782542de47c887",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromNode":  "374e0a5d8a56a362",
+                      "fromSide":  "left",
+                      "toNode":  "4514be6c8c2235b8",
+                      "toSide":  "right",
+                      "color":  "#ffca28"
+                  },
+                  {
+                      "id":  "690f4d3701000e65",
+                      "styleAttributes":  {
+
+                                          },
+                      "toFloating":  false,
+                      "fromFloating":  false,
+                      "fromNode":  "f5800f60411316c4",
+                      "fromSide":  "bottom",
+                      "toNode":  "577011a37b238e9e",
+                      "toSide":  "right",
+                      "label":  "meta"
+                  }
+              ],
+    "metadata":  {
+                     "version":  "1.0-1.0",
+                     "frontmatter":  {
+
+                                     }
+                 }
+}

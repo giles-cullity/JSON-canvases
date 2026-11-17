@@ -1,5 +1,5 @@
-$inputFile = "high-level navigation graph.canvas"
-$outputFile = "high-level navigation.json"
+$inputFile = "set 1 reasoning navigation graph (under construction).canvas"
+$outputFile = "set-1-reasoning.json"
 
 $colorMap = @{
     "1" = "#ff3f2f"
